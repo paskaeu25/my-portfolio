@@ -1,0 +1,8 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 7vh;
+}
+
+.features a.button {
+  margin-bottom: 1.2rem;
+}
